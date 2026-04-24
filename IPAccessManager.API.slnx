@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="IPAccessManager.API/IPAccessManager.API.csproj" />
+  <Project Path="IPAccessManager.Core/IPAccessManager.Core.csproj" />
+  <Project Path="IPAccessManager.Infrastructure/IPAccessManager.Infrastructure.csproj" />
+  <Project Path="IPAccessManager.Services/IPAccessManager.Services.csproj" />
+</Solution>
